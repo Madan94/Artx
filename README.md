@@ -7,9 +7,9 @@ Artx is a blockchain-based art sales platform that leverages decentralized ledge
 How to run this Web App:-
 
 ** Install Necessary Node Modules using npm install **
-** Navigate to daap Folder and run this command - 
-$env:NODE_OPTIONS = "--openssl-legacy-provider"
-**
+
+** Navigate to daap Folder and run this command - $env:NODE_OPTIONS = "--openssl-legacy-provider"**
+
 ** npm run-script startall**
 
 If you are facing any problems, reach out to me - madhanwebdev94@gmail.com
