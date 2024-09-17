@@ -8,7 +8,7 @@ How to run this Web App:-
 
 ** Install Necessary Node Modules using npm install **
 
-** Navigate to daap Folder and run this command - $env:NODE_OPTIONS = "--openssl-legacy-provider"**
+** Navigate to dapp Folder and run this command - $env:NODE_OPTIONS = "--openssl-legacy-provider"**
 
 ** npm run-script startall**
 
