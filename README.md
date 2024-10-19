@@ -17,7 +17,7 @@ Artx is a blockchain based Art Selling Web App to enhance the authenticity and t
 ## 📜 **Smart Contract**
 
 Etherlink-Testnet  
-The Smart Contract is deployed in the Etherlink Testnet at **[0xF2e61F2CBbCDB17cA8A46C903E26B5992Bc4bE07](https://testnet.explorer.etherlink.com/address/0xF2e61F2CBbCDB17cA8A46C903E26B5992Bc4bE07)  
+The Smart Contract is deployed in the Etherlink Testnet at **[0xF2e61F2CBbCDB17cA8A46C903E26B5992Bc4bE07](https://testnet.explorer.etherlink.com/address/0xF2e61F2CBbCDB17cA8A46C903E26B5992Bc4bE07)**  
 Visit the link for more details!
 
 **🔗 [Artx Smart Contract](https://testnet.explorer.etherlink.com/address/0xF2e61F2CBbCDB17cA8A46C903E26B5992Bc4bE07)**
