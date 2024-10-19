@@ -3,9 +3,9 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Madan94/Artx)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/madhan-fullstack-developer/)
 
-<img src="https://github.com/Madan94/Artx/blob/main/dapp/public/images/hack3.png" alt="logo-white" width="800"/>
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack3.png" alt="logo-white" width="800"/>
 
-<img src="https://github.com/Madan94/Artx/blob/main/dapp/public/images/hack4.png" alt="logo-white" width="800"/>
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack4.png" alt="logo-white" width="800"/>
 
 ---
 
@@ -22,7 +22,7 @@ Visit the link for more details!
 
 **🔗 [Artx Smart Contract](https://testnet.explorer.etherlink.com/address/0xF2e61F2CBbCDB17cA8A46C903E26B5992Bc4bE07)**
 
-<img src="https://github.com/Madan94/Artx/blob/main/dapp/public/images/hack2.png" alt="contract-ss" width="800"/>
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack2.png" alt="contract-ss" width="800"/>
 
 ---
 
@@ -94,7 +94,7 @@ Your Server will be open and running at `http://localhost:8000` 🚀
 
 ---
 
-<img src="https://github.com/Madan94/Artx/blob/main/dapp/public/images/hack5.png" alt="upload" width="800"/>
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack5.png" alt="upload" width="800"/>
 
 ---
 
